@@ -7,7 +7,13 @@ const colors = [
   "#F2D7D9",
   "#D3CEDF",
   "#9CB4CC",
-  "#748DA6"
+  "#748DA6",
+  "#d8f8e1",
+  "#b0c2f2",
+  "#ffda9e",
+  "#fdf9c4",
+  "#b2e2f2",
+  "#95b8f6"
 ];
 
 function App() {
