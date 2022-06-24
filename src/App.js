@@ -3,12 +3,11 @@ import "./styles.css";
 import { useState } from "react";
 
 const colors = [
-  "#845EC2",
-  "#D65DB1",
-  "#FF6F91",
-  "#FF9671",
-  "#FFC75F",
-  "#F9F871"
+  
+  "#F2D7D9",
+  "#D3CEDF",
+  "#9CB4CC",
+  "#748DA6"
 ];
 
 function App() {
