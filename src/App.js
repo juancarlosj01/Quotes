@@ -28,7 +28,6 @@ function App() {
     <div className="App">
       <div className="card" style={{ color: color }}>
         <h1>
-          {phrases[index].quote} {phrases[index].quote}{" "}
           {phrases[index].quote}
         </h1>
         
