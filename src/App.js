@@ -43,7 +43,7 @@ function App() {
           </li>      
         </ul>
         <button onClick={changeQuote}>
-          <i className="buttom">next</i>
+          <i className="buttom">Next</i>
         </button>
       </div>
     </div>
